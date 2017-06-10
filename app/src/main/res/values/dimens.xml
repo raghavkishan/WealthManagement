@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_size">17dp</dimen>
+    <dimen name="heading_size">22dp</dimen>
+    <dimen name="heading_size_2">20dp</dimen>
+    <dimen name="profile_size">20dp</dimen>
+    <dimen name="dashboard_heading_size">15dp</dimen>
+    <dimen name="add_join_group_heading_size">18dp</dimen>
+    <dimen name="dp_18">18dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account_circle_grey_700_24dp"
+        android:title="@string/title_profile" />
+
+    <item
+        android:icon="@drawable/ic_account_balance_wallet_grey_700_24dp"
+        android:id="@+id/navigation_add_income_expenses"
+        android:title="@string/title_add_income_epenses" />
+
+    <item
+        android:id="@+id/navigation_personal_dashboard"
+        android:icon="@drawable/ic_list_grey_700_24dp"
+        android:title="@string/title_personal_dashboard" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_group_dashboard" />
+
+</menu>

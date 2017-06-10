@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">WealthManagement</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_group_dashboard">Group Dashboard</string>
+    <string name="title_personal_dashboard">Personal Dashboard</string>
+    <string name="profile_fragment_name_label"><b>Name: </b></string>
+    <string name="profile_fragment_email_label"><b>Email: </b></string>
+    <string name="sign_out_button_label">Sign Out</string>
+    <string name="title_add_income_epenses">Add Income &#47; Expense</string>
+    <string name="add_expenses_label_string"><b>Add Expense:</b></string>
+    <string name="retirement_fund_label_string">Retirement Fund:</string>
+    <string name="long_term_label_string"><b>Long Term:</b></string>
+    <string name="value_view_initial_text">0</string>
+    <string name="education_fund_label_string">Education Fund:</string>
+    <string name="real_estate_label_string">Real Estate Fund:</string>
+    <string name="luxury_fund_label_string">Luxury:</string>
+    <string name="comfort_fund_label_string">Comfort:</string>
+    <string name="necessary_fund_label_string">Necessary:</string>
+    <string name="medium_term_label_string"><b>Medium Term:</b></string>
+    <string name="short_term_label_string"><b>Short Term:</b></string>
+    <string name="income_label_string"><b>Income</b></string>
+    <string name="expense_label_string"><b>Expenses</b></string>
+    <string name="available_label_string"><b>Available Funds</b></string>
+    <string name="create_group_label_string"><b>Create Group:</b></string>
+    <string name="enter_new_group_name">Enter group name</string>
+    <string name="enter_group_id_to_join_hint_string">Enter group id </string>
+    <string name="create_group_button_label_string">Create Group</string>
+    <string name="add_join_group_title_string">Add &#47; Join Group</string>
+    <string name="or_label_string">OR </string>
+    <string name="group_label_text_view_string">Group Name:</string>
+    <string name="group_name_string">Group Name</string>
+    <string name="group_id_lable_string">Group Id:</string>
+    <string name="group_id_string">group id</string>
+    <string name="to_begin_label_string"><b>To Begin</b></string>
+    <string name="now_label_string"><b>now!</b></string>
+    <string name="enter_group_name_label_string">Enter new group name to create group:</string>
+    <string name="create_group_button_string">Create Group</string>
+    <string name="join_group_label_string">Enter the correct group id and group name to join a group:</string>
+    <string name="join_group_button_string">Join Group</string>
+    <string name="add_income_expense_label_string">Add Income &#47; Expense:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_income_label_string"><b> Add Income:</b></string>
+    <string name="add_income_button_string">Add Income</string>
+    <string name="add_income_edit_text_hint_string"> Income Amount</string>
+    <string name="add_expenses_edit_text_hint_string"> Expense Amount</string>
+    <string name="add_expenses_button_string">Add Expenses</string>
+    <string name="add_description_edit_text_hint_string"> Description </string>
+
+</resources>

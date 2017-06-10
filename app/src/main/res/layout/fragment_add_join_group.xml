@@ -1,0 +1,137 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.raghavkishan.wealthmanagement.AddJoinGroup">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <EditText
+        android:id="@+id/enterGroupNameCreatEditTextView"
+        android:layout_width="281dp"
+        android:layout_height="60dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/enter_new_group_name"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.135"
+        app:layout_constraintHorizontal_bias="0.506"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/CreateGroupNameLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enter_group_name_label_string"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.515"
+        app:layout_constraintVertical_bias="0.038"
+        android:textSize="@dimen/add_join_group_heading_size"
+        android:textColor="@color/textColorGreen"/>
+
+    <Button
+        android:id="@+id/create_group_button"
+        android:layout_width="215dp"
+        android:layout_height="42dp"
+        android:text="@string/create_group_button_string"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.311"
+        app:layout_constraintHorizontal_bias="0.507"
+        android:background="#03a9f4"
+        android:textColor="#ffff"
+        android:textAllCaps="false"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/joinGroupLabel"
+        android:layout_width="315dp"
+        android:layout_height="45dp"
+        android:text="@string/join_group_label_string"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.466"
+        android:textSize="@dimen/add_join_group_heading_size"
+        android:textColor="@color/textColorGreen"
+        app:layout_constraintHorizontal_bias="0.517" />
+
+    <EditText
+        android:id="@+id/enterGroupNameJoinEditTextView"
+        android:layout_width="298dp"
+        android:layout_height="59dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/enter_new_group_name"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.614"
+        app:layout_constraintVertical_bias="0.632" />
+
+    <EditText
+        android:id="@+id/enterGroupIdJoinEditTextView"
+        android:layout_width="294dp"
+        android:layout_height="59dp"
+        android:ems="10"
+        android:hint="@string/enter_group_id_to_join_hint_string"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.614"
+        app:layout_constraintVertical_bias="0.793" />
+
+    <Button
+        android:id="@+id/joinGroupButton"
+        android:layout_width="217dp"
+        android:layout_height="49dp"
+        android:text="@string/join_group_button_string"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.943"
+        app:layout_constraintHorizontal_bias="0.503"
+        android:background="#03a9f4"
+        android:textColor="#ffff"
+        android:textAllCaps="false"
+        android:textSize="20dp"/>
+
+
+</android.support.constraint.ConstraintLayout>

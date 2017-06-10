@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="@string/add_join_group_title_string"
+        android:id="@+id/add_join_group"
+        android:icon="@drawable/ic_group_white_24dp"
+        app:showAsAction="always"/>
+
+    <item android:title="@string/sign_out_button_label"
+        android:id="@+id/signOut"
+        android:icon="@drawable/ic_exit_to_app_white_24dp"
+        app:showAsAction="always"/>
+
+</menu>
