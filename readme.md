@@ -60,9 +60,7 @@ Third Party Libraries Used:
 'de.hdodenhof:circleimageview:1.3.0'
 
 ### Images:
-<img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic1.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
-
-<img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic2.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
+<img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic1.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/> <img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic2.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
 
 <img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic3.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
 
