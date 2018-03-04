@@ -4,7 +4,7 @@ Red-id: 820174908
 Project Title: WealthManagement
 --------------------------------
 
-###Description: 
+### Description: 
 
 The Goal of the wealthManagement android application is to assist users to plan their earnings, expenses and budget as part of a family’ budget and expenses.
 
@@ -16,19 +16,19 @@ There are three Main categories under which an income or an expense can be added
 | Medium Term Investment | Medium Term Expense |
 | Short Term Investment | Short Term Expense |
 
-##Each Category has a sub category.
+## Each Category has a sub category.
 
-###Long Term Investment / Long Term Expense:
+### Long Term Investment / Long Term Expense:
 a)Retirement Fund.
 b)Children Education Fund
 c)Real Estate
 
-###Medium Term Investment / Medium Term Expenses:
+### Medium Term Investment / Medium Term Expenses:
 a)Necessary - Example: Insurance, Car Loan EMI
 b)Comforts
 c)Luxury - Example: Holiday Plans
 
-###Short Term Investment / Short Term Expenses:
+### Short Term Investment / Short Term Expenses:
 a)Necessary - Example: Groceries, Furniture, Transport, Rent, Health fund etc.
 b)Comforts - Example: Leisure Hobbies.
 c)Luxury
@@ -59,5 +59,5 @@ Third Party Libraries Used:
 
 'de.hdodenhof:circleimageview:1.3.0'
 
-###Images:
+### Images:
 ![alt text]()
