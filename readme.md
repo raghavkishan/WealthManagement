@@ -62,12 +62,10 @@ Third Party Libraries Used:
 ### Images:
 <img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic1.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
 
-![alt text](https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic1.png)
+<img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic2.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
 
-![alt text](https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic2.png)
+<img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic3.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
 
-![alt text](https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic3.png)
+<img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic4.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
 
-![alt text](https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic4.png)
-
-![alt text](https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic5.png)
+<img src="https://github.com/raghavkishan/WealthManagement/blob/master/wealth_mng_pic5.png" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
