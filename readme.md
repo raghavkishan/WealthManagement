@@ -3,12 +3,12 @@ Red-id: 820174908
 
 Project Title: WealthManagement
 Description: The Goal of the wealthManagement android application is to assist users to plan
-their earnings, expenses and budget as part of a family’ budget and expenses.
+their earnings, expenses and budget as part of a familyâ€™ budget and expenses.
 
 There are three Main categories under which an income or an expense can be added.
 
 Income                           Expenses
----------------------------------------------------
+-----------------------   ----------------------------
 Long Term Investment		Long Tern Expense
 Medium Term Investment		Medium Term Expense
 Short Term Investment		Short Term Expense
